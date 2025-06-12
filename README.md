@@ -32,7 +32,7 @@ Each component will have a separate file documenting what I did, how I set it up
 | ✅ 19 | Install Kali Linux | Completed |
 | ✅ 20 | Install Sysmon on Windows 11 VM | Completed |
 | ✅ 21 | Install Splunk on Windows 11 VM | Completed |
-| ✅ 22 | Lab Summary and Snapshots | In Progress |
+| ✅ 22 | Lab Summary and Snapshots | Completed |
 
 ---
 
